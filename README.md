@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img align = "right" alt="coding" src="https://komarev.com/ghpvc/?username=sahilkh4n7&label=Profile%20views&color=0e75b6&style=flat" alt="sahilkh4n7" /> </p>
+<img src ="https://static.vecteezy.com/system/resources/previews/007/686/736/non_2x/man-in-front-of-computer-monitor-flat-illustraiton-work-from-home-concept-free-vector.jpg" alt="sahil">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
